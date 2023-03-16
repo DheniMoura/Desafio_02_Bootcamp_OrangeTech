@@ -4,6 +4,7 @@ Projeto realizado como parte do Bootcamp [Orenge Tech](https://web.dio.me/track/
 
  O objetivo aqui é criar uma solução que explore o conceito de Padrões de Projeto na prática.
  Para isso, optei por reproduzir um dos projetos criados durante as aulas.
+ Quer dar uma olhada rápida? [Acesse aqui](https://github.com/DheniMoura/Desafio_02_Bootcamp_OrangeTech/tree/main/src/main/java/one/digitalinnovation/gof)
  <br/><br/>
  
  Esse projeto aborda os padrões de projeto em uma API REST e foram abordados os conceitos de:
